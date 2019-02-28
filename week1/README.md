@@ -4,8 +4,10 @@ In these past 3 weeks I've mostly been learning how to use grid and apply new cs
 Smaccs proved to be not so difficult and allowed for a nicely seperated and easy to understand code.
 
 
-## Challenges
+## live URL
+https://oege.ie.hva.nl/~folit001/css%20to%20the%20rescue/
 
+## Challenges
 The challenge I tackled was the responsive restaurant menu.
 The restrictions I applied were:
   Two colors only
