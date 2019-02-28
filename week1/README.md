@@ -1,43 +1,14 @@
-# Week 1 - 👁 C what you did there
+# What I learned
+In these past 3 weeks I've mostly been learning how to use grid and apply new css abilities. For the first time I've worked with keyframe animations and smaccs.
 
-1. Be inspired by Vitaly Friedman.
-2. Pick an assignment
-3. Understand your CSS methodology
-4. Read and explain articles
-5. Work!
+Smaccs proved to be not so difficult and allowed for a nicely seperated and easy to understand code.
 
-## Tuesday
 
-Hi!
+## Challenges
 
-### Inspirational introduction: “Let’s Break The Web!”
-
-Bring a sketch book. Take (sketch)notes!
-
-- **Update:** [Vitaly’s slides](https://t.co/Jeq2nZgtu5?amp=1)
-- **Update:** [Introduction slides](https://docs.google.com/presentation/d/1ir5yUsPJ0r9ibbD-h81pYEtqZxrUVx1yufmAfT_ZK_c/edit?usp=sharing)
-
-### Explaining the assignments
-
-[All you need to know about the assignments can be found here](the-assignments.md)
-
-### Sketching
-
-Did we say you should bring a sketch book?
-
-### Daily standup
-
-What did you learn? What’s your plan? Where are the challenges?
-
-## Thursday
-
-**!important:** We start with [The Weekly Specificity](weekly-specificity.md). Read your articles, be on time!
-
-The rest of the day:
-
-- Work
-- Daily standup
-
-## Friday
-
-- Feedback, conversations
+The challenge I tackled was the responsive restaurant menu.
+The restrictions I applied were:
+  Two colors only
+  Page responds to battery level
+  Smaccs
+  
